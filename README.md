@@ -1,4 +1,4 @@
-# Development of open source based energy indicators
+# GeoLiving Energy
 <img width="1280" height="640" alt="ssb-geoliving-wp4-energy-social-preview" src="https://github.com/user-attachments/assets/e0fca789-b1e1-4ccf-b0ad-2ac91cd8edab" />
 
 ## Background
